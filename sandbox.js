@@ -1,3 +1,3 @@
 const userName = 'HZD';
 
-const codeName = 'gamma';
+const codeName = 'sigma';
